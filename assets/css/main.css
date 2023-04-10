@@ -991,13 +991,13 @@ body {
   background-repeat: no-repeat;
 }
 .about--options > a:nth-child(1) {
-  background-image: url("../img/our-job.png");
+  background-image: url("../img/iklan.png");
 }
 .about--options > a:nth-child(2) {
-  background-image: url("../img/track-record.png");
+  background-image: url("../img/short-movie.jpg");
 }
 .about--options > a:nth-child(3) {
-  background-image: url("../img/client.png");
+  background-image: url("../img/special-event.png");
 }
 .about--options > a:hover h3 {
   bottom: -50px;
