@@ -100,7 +100,7 @@ h1 {
 }
 
 mark {
-  background: #ff0;
+  background: rgb(255, 255, 255);
   color: #000;
 }
 
@@ -274,7 +274,7 @@ body {
 }
 
 body {
-  background-color: #0c0c0c;
+  background-color: #0f172a;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Montserrat", sans-serif;
@@ -350,7 +350,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #0c0c0c;
+  background-color: #0f172a;
   z-index: 12;
 }
 .device-notification--logo {
@@ -583,7 +583,7 @@ body {
   left: -15px;
   right: 0;
   height: 2px;
-  background-color: #282828;
+  background-color: #0f172a;
 }
 .intro--banner::after {
   content: "";
@@ -827,7 +827,7 @@ body {
   height: 50px;
   align-items: center;
   justify-content: center;
-  background-color: #282828;
+  background-color: #0f172a;
   border-radius: 50%;
   cursor: pointer;
 }
@@ -1104,7 +1104,7 @@ body {
 .contact--lockup .modal {
   padding: 45px 45px;
   text-align: center;
-  background-color: #0c0c0c;
+  background-color: #0f172a;
   box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.75);
 }
 .contact--lockup .modal--information p,
@@ -1129,14 +1129,14 @@ body {
 }
 /* button css link to socmed top */
 .contact--lockup .modal--options li:nth-child(1) {
-  background-color: #2272FF;
+  background-color: hsl(310, 100%, 54%);
 }
 .contact--lockup .modal--options li:nth-child(2) {
-  background-color: #ea4c89;
+  background-color: #ff3232;
 }
 .contact--lockup .modal--options li:nth-child(3) {
   margin-bottom: 0;
-  background-color: #2272FF;
+  background-color: #476fb4;
   text-transform: uppercase;
 }
 /* button to link socmed bot */
@@ -1184,7 +1184,7 @@ body {
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  background-color: #0f33ff;
+  background-color: #2272FF;
   border: none;
   border-radius: 0;
 }
@@ -1232,8 +1232,8 @@ body {
   display: none;
 }
 .work-request--options input[type=checkbox]:checked + label {
-  background-color: #0f33ff;
-  border-color: #0f33ff;
+  background-color: #2272FF;
+  border-color: #2272FF;
 }
 .work-request--options input[type=checkbox]:checked + label svg {
   width: 15px;
