@@ -991,10 +991,10 @@ body {
   background-repeat: no-repeat;
 }
 .about--options > a:nth-child(1) {
-  background-image: url("../img/iklan.png");
+  background-image: url("../img/cover-song.png");
 }
 .about--options > a:nth-child(2) {
-  background-image: url("../img/short-movie.jpg");
+  background-image: url("../img/short-movie-1.jpg.png");
 }
 .about--options > a:nth-child(3) {
   background-image: url("../img/special-event.png");
